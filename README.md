@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Webskitters Technology solution pvt ltd , kolkata , india as a ReactJs/React-Native developer with havinng 2+ years of work experience <br>👯 I’m looking to collaborate on hybrid App development related on React-Native.<br>🤝 I’m looking for help with developing a chrome extension that can find different colours code.<br>🌱 I’m currently learning TypeScript and GraphQL.<br>💬 Ask me about Hybrid App development on React-Native and Frontend development.<br>⚡ Fun fact - I am lazy but smart.
+🔭 I’m currently working on Webskitters Technology solution pvt ltd , kolkata , india as a ReactJs/React-Native developer with havinng 3+ years of work experience <br>👯 I’m looking to collaborate on hybrid App development related on React-Native.<br>🤝 I’m looking for help with developing a chrome extension that can find different colours code.<br>🌱 I’m currently learning TypeScript and GraphQL.<br>💬 Ask me about Hybrid App development on React-Native and Frontend development.<br>⚡ Fun fact - I am lazy but smart.
 
 
 ## 🌐 Socials:
